@@ -1,0 +1,29 @@
+{
+  "state": {
+    "user_profile": {
+      "region": "Sindh",
+      "preferred_language": "Urdu",
+      "education_level": "primary",
+      "preferred_learning_style": "interactive",
+      "interests": ["retail", "soft skills"],
+      "goal": [
+        "improve communication skills",
+        "learn customer service techniques"
+      ]
+    },
+    "domain": "soft skills",
+    "current_lesson": "Introduction to Communication",
+    "quiz_results": [
+      {
+        "lesson": "Introduction to Communication",
+        "score": 3,
+        "total": 5
+      }
+    ],
+    "scenario_progress": {
+      "module": "Handling Customer Complaints",
+      "status": "in_progress"
+    },
+    "gamification_score": 15
+  }
+}

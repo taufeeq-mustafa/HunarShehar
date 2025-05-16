@@ -1,0 +1,17 @@
+{
+  "state": {
+    "user_profile": {
+      "region": "",
+      "preferred_language": "Urdu",
+      "education_level": "",
+      "preferred_learning_style": "text",
+      "interests": [],
+      "goal": []
+    },
+    "domain": "",
+    "current_lesson": "",
+    "quiz_results": [],
+    "scenario_progress": {},
+    "gamification_score": 0
+  }
+}
