@@ -52,6 +52,7 @@ A Progressive Web App (PWA) built with React and Vite to empower rural populatio
 - **Web App Manifest:** Configured for installability.
 - **Service Worker:** Offline caching and fast loading.
 - **Icons:** Provided for home screen installation.
+- **You must have your own firebase authentications and APIs to run this project**
 
 ## Hosting
 
